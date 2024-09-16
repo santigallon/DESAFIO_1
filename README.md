@@ -22,6 +22,8 @@ Se realizará un montaje de un circuito en la plataforma a utilizar con las herr
 Desarrollo del circuito (Software):
 Ejecución del algoritmo implementado por medio del lenguaje de programación C++ brindando visualización de análisis de señales y lectura de ondas.
 
+
+
 ## Resultados previsibles
 El programa imprimirá: 
 /Forma de onda
@@ -29,5 +31,14 @@ El programa imprimirá:
 /Amplitud.
 
 
+
+## Prototipo y esquema resultante
+
+![Imagen de WhatsApp 2024-09-16 a las 09 48 59_5538e5db](https://github.com/user-attachments/assets/74dd92e5-b08f-4628-9aa3-14799b76d04b)
+![Imagen de WhatsApp 2024-09-16 a las 09 50 50_5b1e762e](https://github.com/user-attachments/assets/67c0be23-15c8-434a-81b3-84c009fc01a0)
+
+
+
 // **Enlace de desarollo tinkerkad:** https://www.tinkercad.com/things/hTgYPsuJmhr-arduino-desafio-1
+
 
